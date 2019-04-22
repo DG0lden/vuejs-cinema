@@ -6,7 +6,7 @@
   "author": "Anthony Gore <anthony@vuejsdevelopers.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejsdevelopers/vuejs-cinema"
+    "url": "git+https://github.com/vuejsdevelopers/vuejs-cinema.git"
   },
   "license": "UNLICENSED",
   "scripts": {
@@ -50,5 +50,10 @@
     "webpack-dev-middleware": "~1.9.0",
     "webpack-hot-middleware": "~2.14.0",
     "webpack-module-hot-accept": "~1.0.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/vuejsdevelopers/vuejs-cinema/issues"
+  },
+  "homepage": "https://github.com/vuejsdevelopers/vuejs-cinema#readme",
+  "keywords": []
 }
