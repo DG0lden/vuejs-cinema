@@ -1,7 +1,7 @@
+*.iml
 .DS_Store
 node_modules/
 npm-debug.log
 .idea
 .env
 dist
-*.iml
